@@ -1,9 +1,9 @@
 class M11asm < Formula
   desc "MACRO-11 assembler for DCJ-11 / PDP-11"
   homepage "https://github.com/zoltan-szabo/m11asm"
-  url "https://github.com/zoltan-szabo/m11asm/releases/download/v0.3.0/m11asm-v0.3.0-macos-universal.zip"
-  sha256 "fc2b199bc5c8ed4bc9af2b5202ea61ff23ae48f79254e1d0c93c23a5d69f7007"
-  version "0.3.0"
+  url "https://github.com/zoltan-szabo/m11asm/releases/download/v0.4.0/m11asm-v0.4.0-macos-universal.zip"
+  sha256 "86a364eaa21c78761d2f6ff159e41e6cd6dae3cecf010f0d000455611ce1eb14"
+  version "0.4.0"
   license "MIT"
 
   depends_on :macos
